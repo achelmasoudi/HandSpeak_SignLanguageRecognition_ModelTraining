@@ -41,3 +41,8 @@ The trained model is integrated into a real-time Android app.
 - **Class Distribution:** Bar chart of image counts per class (A-Z, space).
 - **Training Metrics:** Plots for training/validation loss and MAE.
 - **Confusion Matrix:** Visualizes model performance across classes.
+
+<br/>
+
+## Documentation
+For a detailed explanation of the project, including methodology, model architecture, and results, **see the attached PDF:** [HandSpeak Model Training Report](https://github.com/user-attachments/files/19367961/HandSpeak.pdf)
