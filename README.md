@@ -2,8 +2,9 @@
       <h1> 
             <img src="https://github.com/user-attachments/assets/777a991d-7eb5-4c4a-b25c-a7ec0e63d9c3" width="185px">
             <br/>
-            HandSpeak - Sign Language Recognition ( Model Training )
-            <br/> 
+            HandSpeak - Sign Language Recognition
+            <br/>
+            <span style="font-size: smaller;">( Model Training )</span>
       </h1>
 </div>
 
